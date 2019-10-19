@@ -1,6 +1,5 @@
-
-Exercício 3
-#Uma matriz pode ser definida como uma lista de listas
+# Exercício 3
+# #Uma matriz pode ser definida como uma lista de listas
 A=[[1,2,3],[4,5,6],[2,2,2]] #Matriz 3X3
 B=[[5,2,1],[2,1,7],[4,1,2]]
 
