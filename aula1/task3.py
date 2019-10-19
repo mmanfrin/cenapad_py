@@ -1,4 +1,4 @@
-#Exercício 3: Gere uma lista dos números divisíveis por 3 menores que 100 em ordem reversa
+#Exercício 3: Gere uma lista dos números divisíveis por 3 menores que 100 em ordem reversa 
 
 div3 = list(range(3,101,3))
 
