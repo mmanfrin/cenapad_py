@@ -5,3 +5,8 @@
 X=[3,6,7,6]
 Y=[5,8,9,2]
 #Dica: use list comprehension e zip
+print(Y)
+print(X)
+
+E = sum([i*j for i,j in zip(X,Y)])
+print(E)
